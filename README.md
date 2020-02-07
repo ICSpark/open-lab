@@ -1,91 +1,90 @@
 # Open Lab
 
 ## HTML and CSS
-Difficulty |Title | Description | Link
------------|------|------------ | -----
-Beginner | Color Me | Quick Introductory Exercise For New Academy Students | https://github.com/junior-devleague/color-me
-Beginner | Wish List | Intro to Lists | https://github.com/junior-devleague/wish-list
-Beginner | Eagle Justice League | Intro to HTML Structure and Basic Styling | https://github.com/junior-devleague/eagle-justice-league
-Beginner | Portals | Intro to Links and Page Jumps | https://github.com/junior-devleague/portals
-Beginner | IG-Profile | Basics of HTML, CSS Project | https://github.com/junior-devleague/ig-profile
-Beginner | Video Player | Basics of HTML, CSS Project | https://github.com/junior-devleague/video-player
-Beginner | Spotify Playlist | Basics of HTML, CSS Project | https://github.com/junior-devleague/spotify-playlist
-Beginner | Pet Store | Intro to HTML/CSS | https://github.com/junior-devleague/pet-store
-Beginner | Mondrain Project | Intro to HTML/CSS | https://github.com/junior-devleague/MondrainProject
-Beginner | Cookie Monster | Navigation bar, lists, divs and links with some CSS styling | https://github.com/junior-devleague/cookie-monster
-Beginner | Goals Card | Ordered Lists, Divs, and Headers | https://github.com/junior-devleague/goals-card
-Beginner | Interactive Storybook | HTML Divs, CSS Position Properties, CSS Keyframe Animation. | https://github.com/junior-devleague/interactive-storybook
-Intermediate | CSS Pseudoselectors | Intro to CSS Pseudoselectors | https://github.com/junior-devleague/css-pseudoselectors-lesson
-Intermediate | CSS Animate | Intro to CSS Animations and Transform | https://github.com/junior-devleague/css-animate
+Difficulty |Title (Link) | Description
+-----------|------|------------
+Beginner | [Wish List](https://github.com/junior-devleague/wish-list) | Intro to Lists
+Beginner | [Eagle Justice League](https://github.com/junior-devleague/eagle-justice-league) | Intro to HTML Structure and Basic Styling
+Beginner | [Portals](https://github.com/junior-devleague/portals) | Intro to Links and Page Jumps
+Beginner | [IG-Profile](https://github.com/junior-devleague/ig-profile) | Basics of HTML, CSS Project
+Beginner | [Video Player](https://github.com/junior-devleague/video-player) | Basics of HTML, CSS Project
+Beginner | [Spotify Playlist](https://github.com/junior-devleague/spotify-playlist) | Basics of HTML, CSS Project
+Beginner | [Pet Store](https://github.com/junior-devleague/pet-store) | Intro to HTML/CSS
+Beginner | [Mondrain Project](https://github.com/junior-devleague/MondrainProject) | Intro to HTML/CSS
+Beginner | [Cookie Monster](https://github.com/junior-devleague/cookie-monster) | Navigation bar, lists, divs and links with some CSS styling
+Beginner | [Goals Card](https://github.com/junior-devleague/goals-card) | Ordered Lists, Divs, and Headers
+Beginner | [Interactive Storybook](https://github.com/junior-devleague/interactive-storybook) | HTML Divs, CSS Position Properties, CSS Keyframe Animation.
+Intermediate | [CSS Pseudoselectors](https://github.com/junior-devleague/css-pseudoselectors-lesson) | Intro to CSS Pseudoselectors
+Intermediate | [CSS Animate](https://github.com/junior-devleague/css-animate) | Intro to CSS Animations and Transform
 
 
 ## JS
-Difficulty |Title | Description | Link
------------|------|------------ | -----
-Beginner | Beginner Javascript | Intro to JS | https://github.com/junior-devleague/beginner-javascript
-Beginner | pokeDom | Intro to DOM and Chrome Dev Tools | https://github.com/junior-devleague/pokeDOM
-Beginner | my-Pokedex | Intro to DOM | https://github.com/junior-devleague/my-pokedex
-Beginner | Camping Accident (TFR) | Beginner DOM Manipulation | https://github.com/junior-devleague/campingAccidentTFR
-Beginner | Youtuber Problems (TFR) | Intro to HTML5 Video Player | https://github.com/junior-devleague/youtuberProblemsTFR
-Beginner | I Spy | Intro to Objects | https://github.com/junior-devleague/i-spy
-Beginner | Eat Humans (TFR) | Beginner Array/Conditionals | https://github.com/junior-devleague/eatHumansTFR
-Beginner | C3 Example JS | Beginner Data Visualization with C3.js | https://github.com/junior-devleague/c3-example
-Beginner | Open the Presents | Event Listener Warmup | https://github.com/junior-devleague/open-the-presents
-Beginner | Compliment Generator | Intro to Functions, Arrays, Math.floor, and Math.random | https://github.com/junior-devleague/compliment-generator
-Beginner | Iffy | Introduction to If Statements and Input Tags | https://github.com/junior-devleague/iffy
-Beginner | Conditionals Loops Functions | Intro to Functions, Nested Conditionals, and For Loops | https://github.com/junior-devleague/conditionals-loops-functions
-Beginner | Secret Messages | Intro to Functions, Conditionals, and For Loops | https://github.com/junior-devleague/secret-messages
-Beginner | Walk Like A Caveman | Warmup on If Statements and Keyboard Events. | https://github.com/junior-devleague/walk-like-a-caveman
-Beginner | Lunchtime | Warmup exercise for Arrays, Math.Random, and Objects | https://github.com/junior-devleague/lunchtime
-Beginner | All the Likes | Introduction to Local Storage | https://github.com/junior-devleague/all-the-likes
-Beginner | My Favorite Things | Exercise with for loops, arrays, and Event Listeners. | https://github.com/junior-devleague/my-favorite-things
-Beginner | Guess Who | Exercise with Event Listeners. | https://github.com/junior-devleague/guess-who
-Intermediate | 1D Array | Intro to 1D Arrays | https://github.com/junior-devleague/1D-array
-Intermediate | Objects | 2D Arrays and Intro to Objects | https://github.com/junior-devleague/objects
-Intermediate | Earth Melting (TFR) | Mathematical Function | https://github.com/junior-devleague/earthMeltingTFR
-Intermediate | Red Ristan (TFR) | Mathematical Function | https://github.com/junior-devleague/redRistanTFR
-Intermediate | Loopy Conditions | String Manipulation, Functions, Arrays | https://github.com/junior-devleague/loopy_conditions/
-Intermediate | Array-For-Loops | Intermediate Array/DOM/For Loop | https://github.com/junior-devleague/Array-For-Loops
-Intermediate | Fake Binary (TFR) | Intro to Binary Concepts with String Manipulation | https://github.com/junior-devleague/fake-binary-TFR
-Intermediate | Escape the Matrix (TFR) | Intro to Objects | https://github.com/junior-devleague/objects-TFR/
-Intermediate | Robot Objects (TFR) | Intro to Object Prototypes and Instances | https://github.com/junior-devleague/robotObjectsTFR
-Intermediate | Objects, Arrays, DOM, Oh My | 1D Arrays, Objects, and DOM | https://github.com/junior-devleague/objects-arrays-dom-ohmy
-Intermediate | I Need Pizza | Objects and Accessing Nested Objects Exercise | https://github.com/junior-devleague/i-need-pizza
-Intermediate | Functions Scavenger Hunt | Warmup Exercise to Review Functions, Arrays, and Objects | https://github.com/junior-devleague/functions-scavenger-hunt
-Intermediate | Webstorm | Local Storage practice with Math.random, Input Tags, and Keyboard Events. | https://github.com/junior-devleague/webstorm
-Advanced | Deeper Objects | Objects in Arrays, Arrays in Objects, Creating Objects/Object Methods | https://github.com/junior-devleague/deeper-objects
-Advanced | Music Jump | Phaser JS game | https://github.com/junior-devleague/music-jump
-Advanced | Wheeler Phaser | Phaser JS game | https://github.com/junior-devleague/wheeler-phaser
+Difficulty |Title | Description
+-----------|------|------------
+Beginner | [Beginner Javascript](https://github.com/junior-devleague/beginner-javascript) | Intro to JS
+Beginner | [pokeDom](https://github.com/junior-devleague/pokeDOM) | Intro to DOM and Chrome Dev Tools
+Beginner | [my-Pokedex](https://github.com/junior-devleague/my-pokedex) | Intro to DOM
+Beginner | [Camping Accident](https://github.com/junior-devleague/campingAccidentTFR) | Beginner DOM Manipulation
+Beginner | [Youtuber Problems](https://github.com/junior-devleague/youtuberProblemsTFR) | Intro to HTML5 Video Player
+Beginner | [I Spy](https://github.com/junior-devleague/i-spy) | Intro to Objects
+Beginner | [Eat Humans](https://github.com/junior-devleague/eatHumansTFR) | Beginner Array/Conditionals
+Beginner | [C3 Example JS](https://github.com/junior-devleague/c3-example) | Beginner Data Visualization with C3.js
+Beginner | [Open the Presents](https://github.com/junior-devleague/open-the-presents) | Event Listener Warmup
+Beginner | [Compliment Generator](https://github.com/junior-devleague/compliment-generator) | Intro to Functions, Arrays, Math.floor, and Math.random
+Beginner | [Iffy](https://github.com/junior-devleague/iffy) | Introduction to If Statements and Input Tags
+Beginner | [Conditionals Loops Functions](https://github.com/junior-devleague/conditionals-loops-functions) | Intro to Functions, Nested Conditionals, and For Loops
+Beginner | [Secret Messages](https://github.com/junior-devleague/secret-messages) | Intro to Functions, Conditionals, and For Loops
+Beginner | [Walk Like A Caveman](https://github.com/junior-devleague/walk-like-a-caveman) | Warmup on If Statements and Keyboard Events.
+Beginner | [Lunchtime](https://github.com/junior-devleague/lunchtime) | Warmup exercise for Arrays, Math.Random, and Objects
+Beginner | [All the Likes](https://github.com/junior-devleague/all-the-likes) | Introduction to Local Storage
+Beginner | [My Favorite Things](https://github.com/junior-devleague/my-favorite-things) | Exercise with for loops, arrays, and Event Listeners.
+Beginner | [Guess Who](https://github.com/junior-devleague/guess-who) | Exercise with Event Listeners.
+Intermediate | [1D Array]( https://github.com/junior-devleague/1D-array) | Intro to 1D Arrays
+Intermediate | [Objects](https://github.com/junior-devleague/objects) | 2D Arrays and Intro to Objects
+Intermediate | [Earth Melting](https://github.com/junior-devleague/earthMeltingTFR) | Mathematical Function
+Intermediate | [Red Ristan](https://github.com/junior-devleague/redRistanTFR) | Mathematical Function
+Intermediate | [Loopy Conditions](https://github.com/junior-devleague/loopy_conditions/) | String Manipulation, Functions, Arrays
+Intermediate | [Array-For-Loops](https://github.com/junior-devleague/Array-For-Loops) | Intermediate Array/DOM/For Loop
+Intermediate | [Fake Binary](https://github.com/junior-devleague/fake-binary-TFR) | Intro to Binary Concepts with String Manipulation
+Intermediate | [Escape the Matrix](https://github.com/junior-devleague/objects-TFR/) | Intro to Objects
+Intermediate | [Robot Objects](https://github.com/junior-devleague/robotObjectsTFR) | Intro to Object Prototypes and Instances
+Intermediate | [Objects, Arrays, DOM, Oh My](https://github.com/junior-devleague/objects-arrays-dom-ohmy) | 1D Arrays, Objects, and DOM
+Intermediate | [I Need Pizza](https://github.com/junior-devleague/i-need-pizza) | Objects and Accessing Nested Objects Exercise
+Intermediate | [Functions Scavenger Hunt](https://github.com/junior-devleague/functions-scavenger-hunt) | Warmup Exercise to Review Functions, Arrays, and Objects
+Intermediate | [Webstorm](https://github.com/junior-devleague/webstorm) | Local Storage practice with Math.random, Input Tags, and Keyboard Events.
+Advanced | [Deeper Objects](https://github.com/junior-devleague/deeper-objects) | Objects in Arrays, Arrays in Objects, Creating Objects/Object Methods
+Advanced | [Music Jump](https://github.com/junior-devleague/music-jump) | Phaser JS game
+Advanced | [Wheeler Phaser](https://github.com/junior-devleague/wheeler-phaser) | Phaser JS game
 
 ## HTML/CSS/JS
-Difficulty |Title | Description | Link
------------|------|------------ | -----
-Beginner | Button Clicker Game | Intro to Event handlers | https://github.com/junior-devleague/button-clicker-game
-Beginner | Red Alert | Intro to Event Handlers | https://github.com/junior-devleague/redAlert_js
-Beginner | Chatbot Cutie | Design Focused Project with Event Handlers and DOM Manipulation | https://github.com/junior-devleague/chatbot-cutie
-Beginner | Hamster Dance | Intro to Keyboard Events and Switch Statement | https://github.com/junior-devleague/hamster-dance
-Beginner | Witch Brew | Event Listeners, If Statements, Comparison Operators and Keyframe Animations. | https://github.com/junior-devleague/witch-brew
-Beginner | Mix Master | Event Listeners and Audio Elements. | https://github.com/junior-devleague/mix-master
-Beginner | Boom | Warmup to Event Listeners and Audio | https://github.com/junior-devleague/boom
-Beginner | Save the Date | Divs, Headers, Flexbox and Prompt. | https://github.com/junior-devleague/save-the-date
-Beginner | Coqui Frogs | Introduction to setTimeout. | https://github.com/junior-devleague/coqui-frogs
-Intermediate | Array Click Gallery | Intro to Arrays with DOM | https://github.com/junior-devleague/array-click-gallery
-Intermediate | Rando Bieb | Intro to For Loops with Arrays and DOM | https://github.com/junior-devleague/rando-bieb
-Intermediate | CMD CTR | Intro to Event Handlers | https://github.com/junior-devleague/cmd_ctr
-Intermediate | Fortune Cookie Generator | Intermediate DOM Manipulation | https://github.com/junior-devleague/fortune-cookie-generator
-Intermediate | Pixel Painter | Event Handlers with DOM Manipulation | https://github.com/junior-devleague/pixel-painter/tree/master
-Intermediate | My Lit Keyboard | Audio, Styling, Event Handlers | https://github.com/junior-devleague/my-lit-keyboard
-Intermediate | Pop Up Penguin | DOM, Basic Functions, CSS Pseudo Selectors Project | https://github.com/junior-devleague/pop-up-penguin
-Intermediate | Rock Paper Scissors | Rock, Paper, Scissors Game | https://github.com/junior-devleague/rock-paper-scissors
-Intermediate | Devmon | Audio, Event Listeners, Functions, Conditionals | https://github.com/junior-devleague/devmon
-Intermediate | Fireflies | MouseEvent ClientX/Y Properties, CSS Changes with JavaScript, CSS Keyframes, Arrays, DOM Hierarchy | https://github.com/junior-devleague/fireflies
-Intermediate | Night of the Zombies | Objects (Constructors, Methods), Arrays, Keyboard Events | https://github.com/junior-devleague/night-of-the-zombies
-Intermediate | Christmas Countdown | Introduction to the JS Date Object, setInterval, and CSS Keyframe Animations. | https://github.com/junior-devleague/christmas-countdown
-Intermediate | O Christmas Tree | Introduction to HTML Drag and Drop. | https://github.com/junior-devleague/o-christmas-tree
-Intermediate | Flashtyper | String Methods, Event Handlers, Arrays, and Nodelists. | https://github.com/junior-devleague/flashtyper
-Intermediate | Character Puzzle | Append Child, Math Methods, Functions, setInterval. | https://github.com/junior-devleague/character-puzzle
-Intermediate | Treehouse | HTML Forms, Input Fields, Validation. | https://github.com/junior-devleague/treehouse
-Advanced | Don't Leave Me Hanging | Hangman variation using Conditionals, DOM manipulation, JavaScript event listeners, key codes, arrays, For loops | https://github.com/junior-devleague/dont-leave-me-hanging
-Advanced | Match Maker | Advanced CSS and Intermediate JS | https://github.com/junior-devleague/memories
-Advanced | Sort Display | Sort Display | https://github.com/junior-devleague/sort-display
-Advanced | Where's My Change | Functions, Returning Objects, Math Methods, IIFE, Scope. | https://github.com/junior-devleague/wheres-my-change 
+Difficulty |Title | Description
+-----------|------|------------
+Beginner | [Button Clicker Game](https://github.com/junior-devleague/button-clicker-game) | Intro to Event handlers
+Beginner | [Red Alert](https://github.com/junior-devleague/redAlert_js) | Intro to Event Handlers
+Beginner | [Chatbot Cutie](https://github.com/junior-devleague/chatbot-cutie) | Design Focused Project with Event Handlers and DOM Manipulation
+Beginner | [Hamster Dance](https://github.com/junior-devleague/hamster-dance) | Intro to Keyboard Events and Switch Statement
+Beginner | [Witch Brew](https://github.com/junior-devleague/witch-brew) | Event Listeners, If Statements, Comparison Operators and Keyframe Animations.
+Beginner | [Mix Master](https://github.com/junior-devleague/mix-master) | Event Listeners and Audio Elements.
+Beginner | [Boom](https://github.com/junior-devleague/boom) | Warmup to Event Listeners and Audio
+Beginner | [Save the Date](https://github.com/junior-devleague/save-the-date) | Divs, Headers, Flexbox and Prompt.
+Beginner | [Coqui Frogs](https://github.com/junior-devleague/coqui-frogs) | Introduction to setTimeout.
+Intermediate | [Array Click Gallery](https://github.com/junior-devleague/array-click-gallery) | Intro to Arrays with DOM
+Intermediate | [Rando Bieb](https://github.com/junior-devleague/rando-bieb) | Intro to For Loops with Arrays and DOM
+Intermediate | [CMD CTR](https://github.com/junior-devleague/cmd_ctr) | Intro to Event Handlers
+Intermediate | [Fortune Cookie Generator](https://github.com/junior-devleague/fortune-cookie-generator) | Intermediate DOM Manipulation
+Intermediate | [Pixel Painter](https://github.com/junior-devleague/pixel-painter/tree/master) | Event Handlers with DOM Manipulation
+Intermediate | [My Lit Keyboard](https://github.com/junior-devleague/my-lit-keyboard) | Audio, Styling, Event Handlers
+Intermediate | [Pop Up Penguin](https://github.com/junior-devleague/pop-up-penguin) | DOM, Basic Functions, CSS Pseudo Selectors Project
+Intermediate | [Rock Paper Scissors](https://github.com/junior-devleague/rock-paper-scissors) | Rock, Paper, Scissors Game
+Intermediate | [Devmon](https://github.com/junior-devleague/devmon) | Audio, Event Listeners, Functions, Conditionals
+Intermediate | [Fireflies](https://github.com/junior-devleague/fireflies) | MouseEvent ClientX/Y Properties, CSS Changes with JavaScript, CSS Keyframes, Arrays, DOM Hierarchy
+Intermediate | [Night of the Zombies](https://github.com/junior-devleague/night-of-the-zombies) | Objects (Constructors, Methods), Arrays, Keyboard Events
+Intermediate | [Christmas Countdown](https://github.com/junior-devleague/christmas-countdown) | Introduction to the JS Date Object, setInterval, and CSS Keyframe Animations.
+Intermediate | [O Christmas Tree](https://github.com/junior-devleague/o-christmas-tree) | Introduction to HTML Drag and Drop.
+Intermediate | [Flashtyper](https://github.com/junior-devleague/flashtyper) | String Methods, Event Handlers, Arrays, and Nodelists.
+Intermediate | [Character Puzzle](https://github.com/junior-devleague/character-puzzle) | Append Child, Math Methods, Functions, setInterval.
+Intermediate | [Treehouse](https://github.com/junior-devleague/treehouse) | HTML Forms, Input Fields, Validation.
+Advanced | [Don't Leave Me Hanging](https://github.com/junior-devleague/dont-leave-me-hanging) | Hangman variation using Conditionals, DOM manipulation, JavaScript event listeners, key codes, arrays, For loops
+Advanced | [Match Maker](https://github.com/junior-devleague/memories) | Advanced CSS and Intermediate JS
+Advanced | [Sort Display](https://github.com/junior-devleague/sort-display) | Sort Display
+Advanced | [Where's My Change](https://github.com/junior-devleague/wheres-my-change) | Functions, Returning Objects, Math Methods, IIFE, Scope. 
